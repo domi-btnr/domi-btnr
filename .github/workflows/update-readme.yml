@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: Generate README Stats
 
 on:
   create:
