@@ -1,10 +1,10 @@
 <h2 align="center">👋 Hello! I'm Dominik.</h2>
 
-- ⚡Hobby programmer
+- ⚡ Hobby programmer
 - 🎓 I am currently studying
 
 ---
-📊 **All Time WakaTime Stats**
+📊 **WakaTime Stats**
 <!--START_SECTION:waka-->
 
 ```text
