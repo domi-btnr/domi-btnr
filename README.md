@@ -7,16 +7,16 @@
 📊 **WakaTime Stats**
 <!--START_SECTION:waka-->
 
-```text
-From: 09 November 2022 - To: 31 May 2023
+```txt
+From: 09 November 2022 - To: 01 June 2023
 
-Total Time: 410 hrs 24 mins
+Total Time: 412 hrs 38 mins
 
-TypeScript   166 hrs 58 mins >>>>>>>>>>---------------   40.69 %
-JavaScript   104 hrs 6 mins  >>>>>>-------------------   25.37 %
-Python       23 hrs 36 mins  >------------------------   05.75 %
-JSON         21 hrs 1 min    >------------------------   05.12 %
-Other        15 hrs 42 mins  >------------------------   03.83 %
+TypeScript   168 hrs 26 mins >>>>>>>>>>---------------   40.82 %
+JavaScript   104 hrs 9 mins  >>>>>>-------------------   25.24 %
+Python       23 hrs 36 mins  >------------------------   05.72 %
+JSON         21 hrs 4 mins   >------------------------   05.11 %
+Other        15 hrs 44 mins  >------------------------   03.81 %
 ```
 
 <!--END_SECTION:waka-->
