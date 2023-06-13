@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Dominik.</h2>
 
 - ⚡ Hobby programmer
-- 🎓 I am currently studying
+- 📍 Germany
 
 ---
 📊 **WakaTime Stats**
