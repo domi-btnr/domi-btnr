@@ -1,7 +1,9 @@
 <h2 align="center">👋 Hello! I'm Dominik.</h2>
 
-- ⚡ Hobby programmer
+- ⚡ Programmer
 - 📍 Germany
+- 🌍 [Portfolio](https://domi-btnr.dev)
+- ✉️ [me@domi-btnr.dev](mailto://me@domi-btnr.dev)
 
 ---
 📊 **WakaTime Stats**
