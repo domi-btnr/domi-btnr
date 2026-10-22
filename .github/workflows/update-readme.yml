@@ -13,7 +13,7 @@ jobs:
     name: Generate README Stats
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v7
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
